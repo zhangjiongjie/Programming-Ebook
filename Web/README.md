@@ -23,7 +23,7 @@ https://github.com/zhangjiongjie/BookSourceCode-Advanced_Dom_Scripting
 OneDrive:https://1drv.ms/b/s!ArtRJJclHzMtkVDvGIGvc18651uo
 百度网盘：https://pan.baidu.com/s/12XagGUqjLB7CMgh9_1tU_Q
 
-3.JavaScript.DOM编程艺术.第2版.pdf 
+3.JavaScript.DOM编程艺术.第2版.pdf
 OneDrive:https://1drv.ms/b/s!ArtRJJclHzMtkV605GrANWU5AlO2
 百度网盘：https://pan.baidu.com/s/1cp8A1kQWfu2L-6ypel6KqA
 
